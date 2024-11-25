@@ -56,6 +56,7 @@ Here is a simple sequence of operations:
 1. Press `7`, `+`, `3`, `=`.
 2. The result displayed will be `10`.
 
-## License
-
-This project is open-source and available under the MIT License.
+## screenshots
+![Screenshot 2024-11-25 215146](https://github.com/user-attachments/assets/80917622-b367-4f78-ab5d-1cc5e70d1faf)
+![Screenshot 2024-11-25 215210](https://github.com/user-attachments/assets/c98a46ae-859c-4d6a-9c0c-1fb7d16e5618)
+![Screenshot 2024-11-25 215218](https://github.com/user-attachments/assets/69f61d57-773b-47d0-bc27-30887d0ec04d)
